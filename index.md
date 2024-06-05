@@ -41,3 +41,11 @@ J’apprends comment faire un site web sur GitHub Pages cette semaine en apprena
 J'ai fait une rencontre avec Kim pour demander comment fonctionnent les messages d'erreurs sur la page d'inscription (qui est le problème de débutant que j'ai décidé de prendre) et elle m'a parlé de l'API du serveur MONA et de Postman permettant de comprendre l'API. Je compte donc apprendre à utiliser Postman. J'ai appris que les appels API ont rapport avec le serveur MONA alors il faudra que je lise la [documentation de mona-serveur sur GitHub](https://github.com/MaisonMONA/mona-server/wiki/Auth-API-Endpoints).
 
 <u>D'ailleurs, lors de la rencontre du 23 mai, Lena m'a dite qu'il sera important d'observer les utilisateurs lors des activités de médiation afin de voir comment ils utilisent l'application mobile afin de l'améliorer.</u>
+
+Cette semaine, j'ai appris comment faire un site web sur GitHub Pages avec Markdown.
+
+
+### 30/05-05/06 - Semaine 5
+J'ai finalement fini de lire Vue.JS sur w3schools. Je vais maintenant apprendre Ionic Framework sur [le site web de documentation d'Ionic Framework](https://ionicframework.com/docs/) et avec les vidéos YouTube afin de pouvoir comprendre le code de mona-mobile.
+
+Il faut d'ailleurs que je lise [la documentation de l'API de mona-serveur](https://github.com/MaisonMONA/mona-server/wiki/Auth-API-Endpoints) pour comprendre l'issue de messages d'erreurs à améliorer.
