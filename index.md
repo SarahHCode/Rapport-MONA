@@ -1,6 +1,22 @@
+|[Rapports hebdomadaires](#rapports-hebdomadaires)|[Rapport final](#rapport-final))|
+---
 ![Mona logo](Mona-Logo.svg)
 # **Été 2024** - Sarah Heng
-## Rapports hebdomadaires:
+
+*Présentation du projet:* Application mobile permettant de découvrir l’art public et de prendre des photos et de critiquer. Je participe dans le développement mobile de l’application tandis que ma camarade s’occupe du développement serveur. Je m’ajoute à l’équipe dans le cadre du projet informatique IFT3150.
+
+Les langages utilisés sont Vue.JS, HTML, JavaScript, Framework Ionic et TypeScript. J'utiliserai VSCode, WebStorm, Postman ainsi que le terminal de l'ordi. Je dois utiliser un MacBook fourni par l'organisme afin de pouvoir déployer pour iOS.
+
+Les objectifs sont que 
+- [ ] Je dois me familiariser avec le code et apprendre les nouveaux langages en premier. 
+- [ ] Et ensuite, programmer et faire de la documentation en participant à la mise à jour de l'interface dans l'application mobile.
+
+Mon professeur superviseur est Guy Lapalme.
+
+Le projet s'étale du 1er mai au 25 août 2024.
+Me familiariser avec le code et apprendre de nouveaux langages devrait prendre un mois et quelques semaines et le restant du temps servira à participer à la mise à jour de l'interface dans l'application mobile.
+
+## <a name="rapports-hebdomadaires"></a>Rapports hebdomadaires:
 
 ### 01/05-08/05 - Semaine 1
 J'ai assisté à une réunion virtuelle d'introduction avec Lena et Guy Lapalme dans laquelle on n'a pas encore assigné les rôles de développement web versus développement mobile, mais on a reçu des consignes sur quoi faire comme utiliser l'application MONA par soi-même et regarder les sites web des anciens étudiants ayant participé au projet. Ensuite, j'ai participé à une rencontre avec Kim, Corélie et les 3 autres étudiantes en histoire de l’art. J'ai appris sur le projet et le but du petit organisme un peu. J'ai fait une rencontre avec Kim pour faire le setup sur MacBook, car pour développer pour IOS, il est nécessaire d'avoir un MacBook, ce qui est nouveau pour moi, étant habituée avec Windows. Cela me fait découvrir l'environnement Apple.
@@ -49,3 +65,8 @@ Cette semaine, j'ai appris comment faire un site web sur GitHub Pages avec Markd
 J'ai finalement fini de lire Vue.JS sur w3schools. Je vais maintenant apprendre Ionic Framework sur [le site web de documentation d'Ionic Framework](https://ionicframework.com/docs/) et avec les vidéos YouTube afin de pouvoir comprendre le code de mona-mobile.
 
 Il faut d'ailleurs que je lise [la documentation de l'API de mona-serveur](https://github.com/MaisonMONA/mona-server/wiki/Auth-API-Endpoints) pour comprendre l'issue de messages d'erreurs à améliorer.
+
+
+
+## <a name="rapport-final"></a>Rapport final:
+À venir...
