@@ -1,4 +1,4 @@
-|[Rapports hebdomadaires](#rapports-hebdomadaires)|[Rapport final](#rapport-final))|
+|[Rapports hebdomadaires](#rapports-hebdomadaires)|[Rapport final](#rapport-final)|
 ---
 ![Mona logo](Mona-Logo.svg)
 # **Été 2024** - Sarah Heng
