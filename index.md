@@ -60,14 +60,13 @@ J'ai fait une rencontre avec Kim pour demander comment fonctionnent les messages
 
 Cette semaine, j'ai appris comment faire un site web sur GitHub Pages avec Markdown.
 
-
 ### 30/05-05/06 - Semaine 5
 J'ai finalement fini de lire Vue.JS sur w3schools. Je vais maintenant apprendre Ionic Framework sur [le site web de documentation d'Ionic Framework](https://ionicframework.com/docs/) et avec les vidéos YouTube afin de pouvoir comprendre le code de mona-mobile.
 
 Il faut d'ailleurs que je lise [la documentation de l'API de mona-serveur](https://github.com/MaisonMONA/mona-server/wiki/Auth-API-Endpoints) pour comprendre l'issue de messages d'erreurs à améliorer.
 
 ### 06/06-12/06 - Semaine 6
-En faisant un tutoriel d'Ionic Framework, je vois qu'il a du TypeScript, alors, je décide d'apprendre TypeScript sur YouTube et w3schools.
+En faisant un tutoriel d'Ionic Framework, je vois qu'il a du TypeScript, alors, je décide d'apprendre TypeScript sur YouTube et w3schools, mais en regardant un tutoriel de TypeScript sur YouTube, je vois qu'il faut savoir JavaScript, donc, je décide de me rafraîchir sur JavaScript et HTML puisque ça fait un bout que je les ai utilisés.
 
 
 
