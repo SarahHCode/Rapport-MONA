@@ -66,6 +66,9 @@ J'ai finalement fini de lire Vue.JS sur w3schools. Je vais maintenant apprendre 
 
 Il faut d'ailleurs que je lise [la documentation de l'API de mona-serveur](https://github.com/MaisonMONA/mona-server/wiki/Auth-API-Endpoints) pour comprendre l'issue de messages d'erreurs à améliorer.
 
+### 06/06-12/06 - Semaine 6
+En faisant un tutoriel d'Ionic Framework, je vois qu'il a du TypeScript, alors, je décide d'apprendre TypeScript sur YouTube et w3schools.
+
 
 
 ## <a name="rapport-final"></a>Rapport final:
