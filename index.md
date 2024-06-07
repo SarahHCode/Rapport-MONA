@@ -68,7 +68,7 @@ Il faut d'ailleurs que je lise [la documentation de l'API de mona-serveur](https
 ### 06/06-12/06 - Semaine 6
 En faisant un tutoriel d'Ionic Framework, je vois qu'il a du TypeScript, alors, je décide d'apprendre TypeScript sur YouTube et w3schools, mais en regardant un tutoriel de TypeScript sur YouTube, je vois qu'il faut savoir JavaScript, donc, je décide de me rafraîchir sur JavaScript et HTML puisque ça fait un bout que je les ai utilisés.
 
-
+Cela me fait réaliser qu'il y a plusieurs couches de connaissances à acquérir afin de comprendre le code.
 
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
