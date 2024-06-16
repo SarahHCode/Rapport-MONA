@@ -68,6 +68,11 @@ Il faut d'ailleurs que je lise [la documentation de l'API de mona-serveur](https
 ### 06/06-12/06 - Semaine 6
 En faisant un tutoriel d'Ionic Framework, je vois qu'il a du TypeScript, alors, <u>je décide d'apprendre TypeScript sur YouTube et w3schools</u>, mais en regardant un tutoriel de TypeScript sur YouTube, je vois qu'il faut savoir JavaScript, donc, <u>je décide de me rafraîchir sur JavaScript et HTML</u> puisque ça fait un bout que je les ai utilisés.
 
+### 13/06-19/06 - Semaine 7
+J'ai fini le tutoriel de HTML dans w3schools, mais en parlant avec Lena et Kim un peu, je devrais plutôt apprendre en explorant le code plutôt que lire la documentation des langages.
+
+J'ai fini deux issues en plongeant dans le code. Soit de changer les messages d'erreurs en ion-toast et corrigé le bug de titre dans la liste qui se colle à droite.
+Cela m'a permis d'apprendre comment débugger. 
 
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
