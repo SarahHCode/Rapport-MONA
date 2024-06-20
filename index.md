@@ -71,8 +71,8 @@ En faisant un tutoriel d'Ionic Framework, je vois qu'il a du TypeScript, alors, 
 ### 13/06-19/06 - Semaine 7
 J'ai fini le tutoriel de HTML dans w3schools, mais en parlant avec Lena et Kim un peu, je devrais plutôt apprendre en explorant le code plutôt que lire la documentation des langages.
 
-J'ai fini deux issues en plongeant dans le code. Soit de changer les messages d'erreurs en ion-toast et corrigé le bug de titre dans la liste qui se colle à droite.
-Cela m'a permis d'apprendre comment débugger. 
+J'ai fini 3 issues en plongeant dans le code. Soit de changer les messages d'erreurs en ion-toast, corriger le bug de titre dans la liste qui se colle à droite et ajouter un enter key listener. J'ai aussi fait deux revues de code que Kim m'a assignées.
+Cela m'a permis d'apprendre comment débugger et m'a permise de mieux comprendre le code.
 
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
