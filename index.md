@@ -74,5 +74,9 @@ J'ai fini le tutoriel de HTML dans w3schools, mais en parlant avec Lena et Kim u
 J'ai fini 3 issues en plongeant dans le code. Soit de changer les messages d'erreurs en ion-toast, corriger le bug de titre dans la liste qui se colle à droite et ajouter un enter key listener. J'ai aussi fait deux revues de code que Kim m'a assignées.
 Cela m'a permis d'apprendre comment débugger et m'a permise de mieux comprendre le code.
 
+### 20/06-26/06 - Semaine 8
+
+
+
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
