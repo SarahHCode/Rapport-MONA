@@ -75,6 +75,11 @@ J'ai fini 3 issues en plongeant dans le code. Soit de changer les messages d'err
 Cela m'a permis d'apprendre comment débugger et m'a permise de mieux comprendre le code.
 
 ### 20/06-26/06 - Semaine 8
+Cette semaine, j'ai commencé la nouvelle interface, plus précisément, la barre de navigation et j'ai résolu d'autres issues. Je me suis attaquée à l'issue de d'augmenter la taille du pin sélectionné sur la carte, ce qui requiert de comprendre un peu plus OpenLayers, d'explorer le code dans Utils.ts et de comprendre le code de MapContainer.
+
+Je pense que mes objectifs pour ce projet dorénavant sera d'implémenter la partie Home de la nouvelle interface, d'autres parties de l'interface aussi j'espère et de résoudre plusieurs issues. 
+
+### 27/06-03/07 - Semaine 9
 
 
 
