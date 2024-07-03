@@ -81,6 +81,14 @@ Je pense que mes objectifs pour ce projet dorénavant sera d'implémenter la par
 
 ### 27/06-03/07 - Semaine 9
 
+Cette semaine, j’ai fait une rencontre avec Guy Lapalme, Lena et l’équipe informatique. Il faudra que je planifie le temps pour le reste du projet informatique qui finira le 21 août et il me faudra faire le rapport final. Nous pensions que nous serions prêts pour un release, mais ce n’est pas le cas à cause de bug d’images qui ne se montrent pas à cause de mise à jours de dépendances.
+
+Parmi les issues sur lesquels j’ai travaillés, le rayon d’approximation de la localisation de l’utilisateur, le rayon ne montrait pas réalistement l’approximation, alors, j’ai corrigé pour que le rayon d’approximation soit montré réalistement en mètres sur la carte. Ainsi, cet issue est corrigé. J’ai aussi fini la nouvelle barre de navigation et son apparence, mais je veux m’attarder plus dessus pour comprendre plus CSS et faire qu’elle corresponde plus au nouveau design de l’interface. Il faudra ensuite que je continue le développement de la nouvelle interface.
+
+Il faudra que je prenne connaissance et que j’apprenne à faire des tests pour l’interface soit Cypress et Vitest.
+
+### 04/07-10/07 - Semaine 10
+
 
 
 ## <a name="rapport-final"></a>Rapport final:
