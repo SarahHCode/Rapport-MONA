@@ -87,6 +87,8 @@ Parmi les issues sur lesquels j’ai travaillés, le rayon d’approximation de 
 
 Il faudra que je prenne connaissance et que j’apprenne à faire des tests pour l’interface soit Cypress et Vitest.
 
+J'ai fini de faire correspondre l'apparence de la barre de navigation au nouveau design de l'interface. J'ai lu de la documentation de CSS me semblant pertinant pour réaliser l'apparence de la barre de navigation et cela m'a faite comprendre mieux CSS comme box model et flex box.
+
 ### 04/07-10/07 - Semaine 10
 
 
