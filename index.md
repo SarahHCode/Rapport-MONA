@@ -91,7 +91,9 @@ J'ai fini de faire correspondre l'apparence de la barre de navigation au nouveau
 
 ### 04/07-10/07 - Semaine 10
 
+J'ai fait que le bouton pour recentrer change d'apparence selon comment l'écran est centré par rapport à l'emplacement de l'utilisateur. Ce fut compliqué de trouver comment détecter lorsque l'écran était décentré, mais j'ai trouvé en lisant la documentation d'OpenLayers pour comprendre mieux et en trouvant des réponses sur StackOverflow.
 
+J'ai commencé à travailler sur la page Profil, mais en regardant le design de la nouvelle interface, je ne suis pas sûre ce qu'on veut garder ou non, alors, je traiterai de cela lors du meeting avec Barbara le lundi 8 juillet.
 
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
