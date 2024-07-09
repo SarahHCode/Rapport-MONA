@@ -91,9 +91,13 @@ J'ai fini de faire correspondre l'apparence de la barre de navigation au nouveau
 
 ### 04/07-10/07 - Semaine 10
 
-J'ai fait que le bouton pour recentrer change d'apparence selon comment l'écran est centré par rapport à l'emplacement de l'utilisateur. Ce fut compliqué de trouver comment détecter lorsque l'écran était décentré, mais j'ai trouvé en lisant la documentation d'OpenLayers pour comprendre mieux et en trouvant des réponses sur StackOverflow.
+J'ai fait que le bouton pour recentrer change d'apparence selon comment l'écran est centré par rapport à l'emplacement de l'utilisateur. Ce fut compliqué de trouver comment détecter lorsque l'écran était décentré, mais j'ai trouvé en lisant la documentation d'OpenLayers pour comprendre mieux et en trouvant des réponses sur StackOverflow. 
+Puis, je me demandais quoi mettre pour déclencher la fonction qui change l'apparence du bouton recentrer. Au début, j'avais mis que la fonction déclenche chaque fois que View change (soit que le viewport change sur la carte), mais cela affectait beaucoup la performance. Alors, j'ai réfléchi à comment l'apparence du bouton changerait normalement dans d'autres interfaces comme Google Maps par exemple et j'ai finalement décidé de mettre comme déclencheur de la fonction du bouton recenter lorsque l'utilisateur finit un mouvement sur la carte, ce qui est mieux pour l'expérience utilisateur et pour la performance puisque la fonction s'active moins souvent inutilement genre.
 
-J'ai commencé à travailler sur la page Profil, mais en regardant le design de la nouvelle interface, je ne suis pas sûre ce qu'on veut garder ou non, alors, je traiterai de cela lors du meeting avec Barbara le lundi 8 juillet.
+J'ai commencé à travailler sur la page Profil, mais en regardant le design de la nouvelle interface, je ne suis pas sûre de ce qu'on veut garder ou non, alors, je traiterai de cela lors du meeting avec Barbara le lundi 8 juillet.
+
+J'ai eu un meeting avec Barbara, Lena et Kim dans lequel nous faisons le point sur ce qu'on veut dans l'interface. Je m'attaquerai donc à faire la modale sur la carte des découvertes à proximité.
+
 
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
