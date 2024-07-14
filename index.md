@@ -98,6 +98,15 @@ J'ai commencé à travailler sur la page Profil, mais en regardant le design de 
 
 J'ai eu un meeting avec Barbara, Lena et Kim dans lequel nous faisons le point sur ce qu'on veut dans l'interface. Je m'attaquerai donc à faire la modale sur la carte des découvertes à proximité.
 
+Oh non, je viens de merge incorrectement deux branches à la branche de développement principale dev et il y a des bugs qui font que l'application ne fonctionne pas bien là. J'ai essayé de faire une nouvelle branche à partir de dev, de revert la branche au commit juste avant les merges des deux branches et j'ai essayé de re-merge une branche à la fois, mais cela ne marche pas. Heureusement, en faisant des recherches, j'ai vu qu'on peut revert les merges, ce que j'ai fait, mais, dans mon cas, il faut que j'attende la validation de Kim.
+De cette expérience, j'ai appris comment retourner à une ancienne version du code sur Git et comment merge localement.
+
+### 11/07-17/07 - Semaine 11
+
+J'ai fait deux déploiements cette semaine, un sur iOS et l'autre sur Android.
+
+J'essaie de faire la modale de découvertes à proximité sur la carte, mais il me reste des pépins après avoir réglé d'autres problèmes tels que la modale empêche par défaut d'interagir avec les éléments en arrière-plan (la solution était de mettre :backdrop-breakpoint="1" pour que le backdrop n'apparaisse jamais). Un des pépins qui reste est, qu'une fois ouverte, la modale reste sur l'écran même après avoir changé d'onglet de navigation. Je me demande si utiliser un ion-accordion conviendrait mieux à la situation.
+
 
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
