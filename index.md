@@ -103,6 +103,8 @@ De cette expérience, j'ai appris comment retourner à une ancienne version du c
 
 ### 11/07-17/07 - Semaine 11
 
+Avec l'aide de Kim, nous avons utilisé revert sur GitHub pour enlever les merges défectueux afin de faire retour en arrière, mais on a eu des problèmes avec cela (les commits sont devenus des reverts de reverts et GitHub considérait toujours que les merges défectueux étaient présents... donc, on n'a pas pu faire un retour en arrière ainsi). Finalement, avec ```git reset --hard [numéro du commit juste avant les deux merges défectueux]```, nous avons fait que la branche principale dev retourne au commit juste avant les merges défectueux et avons refaits les deux merges à partir de là avec succès.
+
 J'ai fait deux déploiements cette semaine, un sur iOS et l'autre sur Android.
 
 J'essaie de faire la modale de découvertes à proximité sur la carte, mais il me reste des pépins après avoir réglé d'autres problèmes tels que la modale empêche par défaut d'interagir avec les éléments en arrière-plan (la solution était de mettre :backdrop-breakpoint="1" pour que le backdrop n'apparaisse jamais). Un des pépins qui reste est, qu'une fois ouverte, la modale reste sur l'écran même après avoir changé d'onglet de navigation. Je me demande si utiliser un ion-accordion conviendrait mieux à la situation.
