@@ -109,6 +109,9 @@ J'ai fait deux déploiements cette semaine, un sur iOS et l'autre sur Android.
 
 J'essaie de faire la modale de découvertes à proximité sur la carte, mais il me reste des pépins après avoir réglé d'autres problèmes tels que la modale empêche par défaut d'interagir avec les éléments en arrière-plan (la solution était de mettre :backdrop-breakpoint="1" pour que le backdrop n'apparaisse jamais). Un des pépins qui reste est, qu'une fois ouverte, la modale reste sur l'écran même après avoir changé d'onglet de navigation. Je me demande si utiliser un ion-accordion conviendrait mieux à la situation.
 
+J'ai fini de faire la fenêtre de découvertes à proximité qui ne marche pas dans le build (ion-accordion ne veut pas ouvrir et je ne sais pas pourquoi), mais il marche dans l'émulateur hot reload. 
+
+Nous voulons essayer de faire une release cette semaine.
 
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
