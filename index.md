@@ -113,5 +113,14 @@ J'ai fini de faire la fenêtre de découvertes à proximité qui ne marche pas d
 
 Nous voulons essayer de faire une release cette semaine.
 
+### 18/07-24/07 - Semaine 12
+
+Kim a trouvé la cause de ion-accordion qui ne s'ouvrait pas, c'était simplement un import manquant.
+
+J'ai mis des différentes tailles de pins pour différents zooms. 
+
+J'ai fait une autre release sur ios, android et github, car la dernière release avait le bug d'être coincé dans le tutoriel, et écrit ce que les testeurs devraient tester. 
+Il y a un bug avec ionic qui fait que le CSS ne s'applique pas de la même façon pour iOS et Android... j'ai lu sur stackoverflow que c'est parce qu'on devrait utiliser des classes au lieu de noms d'éléments, car Ionic attribuerait iOS ou Android déjà à la base pour ses éléments. Il y a aussi un bug d'Ionic, je crois, qui fait que le CSS d'une page peut affecter les autres pages (ce qu'on ne voit pas avec le hot reload)... Je crois donc qu'il faut que je tienne compte de ça en programmant...
+
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
