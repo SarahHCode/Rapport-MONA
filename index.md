@@ -122,5 +122,11 @@ J'ai mis des différentes tailles de pins pour différents zooms.
 J'ai fait une autre release sur ios, android et github, car la dernière release avait le bug d'être coincé dans le tutoriel, et écrit ce que les testeurs devraient tester. 
 Il y a un bug avec ionic qui fait que le CSS ne s'applique pas de la même façon pour iOS et Android... j'ai lu sur stackoverflow que c'est parce qu'on devrait utiliser des classes au lieu de noms d'éléments, car Ionic attribuerait iOS ou Android déjà à la base pour ses éléments. Il y a aussi un bug d'Ionic, je crois, qui fait que le CSS d'une page peut affecter les autres pages (ce qu'on ne voit pas avec le hot reload)... Je crois donc qu'il faut que je tienne compte de ça en programmant...
 
+### 25/07-31/07 - Semaine 13
+
+Cette semaine, je me donne la tâche d'écrire des tests afin que le testage soit automatisé. 
+
+### 01/08-07/08 - Semaine 14
+
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
