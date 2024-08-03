@@ -128,5 +128,13 @@ Cette semaine, je me donne la tâche d'écrire des tests afin que le testage soi
 
 ### 01/08-07/08 - Semaine 14
 
+Il faut que je réfléchisse à faire des tests qui persisteront dans le temps, donc qui seront pertinents.
+
+J’ai décidé de faire la modale de la description de découverte, mais j’ai rencontré des problèmes pour centrer la pin de la découverte sélectionnée et pour mettre la page description dans la modale. Pour le premier, j’ai finalement trouvé une solution qui est de calculer la hauteur de l’écran au zoom final voulu sur la carte et de mettre un offset au centrage du viewport sur la carte. Pour le deuxième, le bug qui faisait que la page ne s’affichait pas dans la modale est que dans setup(), "type" de la découverte était passé dans parseInt, mais c’était un String. Pourtant, cela marchait dans la page description qui était déjà présente avant. Pour avoir plus de flexibilité dans comment la page de description est appelée, j’ai utilisé props pour faire passer les données de la page carte à la page description que j’ai rendu en component.
+
+Après avoir reçu du feedback de l’équipe, je décide de travailler sur les points demandés.
+
+J'ai réglé des bugs ayant rapport au focus sur le pin en changeant pour la nouvelle interface pour le centrage du pin. En même temps de travailler sur cela, je note ce sur quoi je pourrais écrire des tests.
+
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
