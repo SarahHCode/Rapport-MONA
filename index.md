@@ -5,7 +5,7 @@
 
 *Présentation du projet:* Application mobile permettant de découvrir l’art public et de prendre des photos et de critiquer. Je participe dans le développement mobile de l’application tandis que ma camarade s’occupe du développement serveur. Je m’ajoute à l’équipe dans le cadre du projet informatique IFT3150.
 
-Les langages utilisés sont Vue.JS, HTML, JavaScript, Framework Ionic et TypeScript. J'utiliserai VSCode, WebStorm, Postman ainsi que le terminal de l'ordi. Je dois utiliser un MacBook fourni par l'organisme afin de pouvoir déployer pour iOS.
+Les langages utilisés sont Vue.JS, HTML, JavaScript, Framework Ionic, TypeScript et la librairie OpenLayers. J'utiliserai VSCode, WebStorm, Postman ainsi que le terminal de l'ordi. Je dois utiliser un MacBook fourni par l'organisme afin de pouvoir déployer pour iOS.
 
 Les objectifs sont que 
 - [ ] Je dois me familiariser avec le code et apprendre les nouveaux langages en premier. 
@@ -135,6 +135,11 @@ J’ai décidé de faire la modale de la description de découverte, mais j’ai
 Après avoir reçu du feedback de l’équipe, je décide de travailler sur les points demandés.
 
 J'ai réglé des bugs ayant rapport au focus sur le pin en changeant pour la nouvelle interface pour le centrage du pin. En même temps de travailler sur cela, je note ce sur quoi je pourrais écrire des tests.
+
+J'ai travaillé sur faire que le bouton recenter suive le accordion de découvertes à proximité. Je ne trouvais pas comment faire au début, mais finalement, j'ai trouvé qu'il faut que le bouton soit dans le container accordionGroup et dans un container ayant "position: relative" pour lequel j'ai choisi en div.
+Ensuite, un bug apparaissait qui faisait que le accordion de découvertes à proximité ré-ouvrait par lui-même en bougeant sur la carte, ce qui est agaçant. Après beaucoup de recherches et d'essais-erreurs, j'ai demandé à ChatGPT qui m'a fournie des pistes dont une qui est que ce bug est causé par un changement de propriétés (dans recenter bouton ici) qui cause ionic de re-render tout le component... J'ai donc corrigé ce bug en liant l'état de l'accordion avec une variable. 
+Ces recherches, bien qu'elles n'ont pas menées directement à la solution, font que je comprends mieux le code.
+
 
 ## <a name="rapport-final"></a>Rapport final:
 À venir...
