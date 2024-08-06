@@ -124,6 +124,8 @@ Il y a un bug avec ionic qui fait que le CSS ne s'applique pas de la même faço
 
 ### 25/07-31/07 - Semaine 13
 
+Je fus absente du 20 au 30 juillet.
+
 Cette semaine, je me donne la tâche d'écrire des tests afin que le testage soit automatisé. 
 
 ### 01/08-07/08 - Semaine 14
