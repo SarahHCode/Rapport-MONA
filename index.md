@@ -146,5 +146,6 @@ Ces recherches, bien qu'elles n'ont pas menées directement à la solution, font
 
 
 
+
 ## <a name="rapport-final"></a>Rapport final:
-À venir...
+<a href="rapportFinal.pdf" target="_blank">Cliquez ici pour voir le rapport final en PDF.</a>
