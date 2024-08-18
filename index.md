@@ -142,10 +142,9 @@ J'ai travaillé sur faire que le bouton recenter suive le accordion de découver
 Ensuite, un bug apparaissait qui faisait que le accordion de découvertes à proximité ré-ouvrait par lui-même en bougeant sur la carte, ce qui est agaçant. Après beaucoup de recherches et d'essais-erreurs, j'ai demandé à ChatGPT qui m'a fournie des pistes dont une qui est que ce bug est causé par un changement de propriétés (dans recenter bouton ici) qui cause ionic de re-render tout le component... J'ai donc corrigé ce bug en liant l'état de l'accordion avec une variable. 
 Ces recherches, bien qu'elles n'ont pas menées directement à la solution, font que je comprends mieux le code.
 
-### 08/08-14/08 - Semaine 15
+### 08/08-22/08 - Semaines 15&16
 
-
-
+J'ai travaillé sur planifier les minimum viable products à travailler et j'essaie d'implémenter la nouvelle interface collection/badge, mais je rencontre des problèmes avec les APIs. Je fournis le bon token, mais ça me dit "Unauthorized", donc, j'écris à Corélie pour voir si la cause pourrait être du côté serveur. 
 
 ## <a name="rapport-final"></a>Rapport final:
 <a href="rapportFinal.pdf" target="_blank">Cliquez ici pour voir le rapport final en PDF.</a>
