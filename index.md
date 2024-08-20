@@ -146,7 +146,9 @@ Ces recherches, bien qu'elles n'ont pas menées directement à la solution, font
 
 J'ai travaillé sur planifier les minimum viable products à travailler et j'essaie d'implémenter la nouvelle interface collection/badge, mais je rencontre des problèmes avec les APIs. Je fournis le bon token, mais ça me dit "Unauthorized", donc, j'écris à Corélie pour voir si la cause pourrait être du côté serveur. 
 
-Finalement, la cause était que le token était expiré. Maintenant, je dois comprendre comment fonctionne le cache afin d'ajouter quand le compte a été créé.
+Finalement, la cause était que le token était expiré. Maintenant, je dois comprendre comment fonctionne le cache afin d'ajouter quand le compte a été créé. J'ai écrit à Gaspard qui m'a un peu expliquée comment les informations sont gardées dans l'application.
+
+Maintenant, je vais m'attaquer au bug de découvertes qui ne s'affichent pas dans la page Collection/Badges. Je pense que le problème est quand les données des APIs sont fetched puisque j'ai rencontré des problèmes avec l'api api/v3/user qui renvoyait erreur 401 'Unauthorized'.
 
 ## <a name="rapport-final"></a>Rapport final:
 <a href="rapportFinal.pdf" target="_blank">Cliquez ici pour voir le rapport final en PDF.</a>
