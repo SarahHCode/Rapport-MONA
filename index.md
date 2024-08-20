@@ -146,5 +146,7 @@ Ces recherches, bien qu'elles n'ont pas menées directement à la solution, font
 
 J'ai travaillé sur planifier les minimum viable products à travailler et j'essaie d'implémenter la nouvelle interface collection/badge, mais je rencontre des problèmes avec les APIs. Je fournis le bon token, mais ça me dit "Unauthorized", donc, j'écris à Corélie pour voir si la cause pourrait être du côté serveur. 
 
+Finalement, la cause était que le token était expiré. Maintenant, je dois comprendre comment fonctionne le cache afin d'ajouter quand le compte a été créé.
+
 ## <a name="rapport-final"></a>Rapport final:
 <a href="rapportFinal.pdf" target="_blank">Cliquez ici pour voir le rapport final en PDF.</a>
